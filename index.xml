@@ -2,7 +2,7 @@
 <level>
   <owner>stolbitsa</owner>
   <repo>merry-christmas-kids-2</repo>
-  <version>v1.0.1</version>
+  <version>v1.0.2</version>
   <next number="1" owner="stolbitsa" repo="merry-christmas-kids"/>
   <readme>
     <ru>437256f99f2a32087bd3781653b60df90ffcc2a7cfbe5eaf4b1b37a0f703796e</ru>
@@ -67,12 +67,12 @@
     <tonalities>6</tonalities>
     <video name="20-merry-christmas-v-2-kids-tv_4.mp4" size="2213424" type="video/mp4" volume="0.558">fffa61edb05216766e5466412d268a36e4988312f06a8b1301dc5bbfcf29e198</video>
     <notes>
-      <note number="1" values="5" ticks="121" durationTicks="29" ppq="96" velocity="0.843"/>
-      <note number="2" values="5" ticks="168" durationTicks="45" ppq="96" velocity="0.739"/>
-      <note number="3" values="6" ticks="219" durationTicks="95" ppq="96" velocity="0.719"/>
-      <note number="4" values="28" ticks="316" durationTicks="93" ppq="96" velocity="0.719"/>
-      <note number="5" values="7" ticks="412" durationTicks="96" ppq="96" velocity="0.719"/>
-      <note number="6" values="18" ticks="508" durationTicks="170" ppq="96" velocity="0.719"/>
+      <note number="1" values="5" ticks="98" durationTicks="29" ppq="96" velocity="0.843"/>
+      <note number="2" values="5" ticks="147" durationTicks="45" ppq="96" velocity="0.739"/>
+      <note number="3" values="6" ticks="193" durationTicks="95" ppq="96" velocity="0.719"/>
+      <note number="4" values="28" ticks="290" durationTicks="93" ppq="96" velocity="0.719"/>
+      <note number="5" values="7" ticks="386" durationTicks="96" ppq="96" velocity="0.719"/>
+      <note number="6" values="18" ticks="482" durationTicks="170" ppq="96" velocity="0.719"/>
     </notes>
   </exercise>
   <exercise number="5">
